@@ -1,3 +1,10 @@
 autoMLenv
-dataset_noNA.csv
 .DS_Store
+logs.log
+config
+__pycache__
+models_weights
+cache
+exports
+*.csv
+secrets.toml
